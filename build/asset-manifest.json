@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DragDropFruit/static/css/main.d351a5b3.chunk.css",
+    "main.js": "/DragDropFruit/static/js/main.fb2e000e.chunk.js",
+    "main.js.map": "/DragDropFruit/static/js/main.fb2e000e.chunk.js.map",
+    "runtime-main.js": "/DragDropFruit/static/js/runtime-main.f782781a.js",
+    "runtime-main.js.map": "/DragDropFruit/static/js/runtime-main.f782781a.js.map",
+    "static/js/2.3342b93d.chunk.js": "/DragDropFruit/static/js/2.3342b93d.chunk.js",
+    "static/js/2.3342b93d.chunk.js.map": "/DragDropFruit/static/js/2.3342b93d.chunk.js.map",
+    "index.html": "/DragDropFruit/index.html",
+    "precache-manifest.c7f3b52861cf0369891776fbd30c16b5.js": "/DragDropFruit/precache-manifest.c7f3b52861cf0369891776fbd30c16b5.js",
+    "service-worker.js": "/DragDropFruit/service-worker.js",
+    "static/css/main.d351a5b3.chunk.css.map": "/DragDropFruit/static/css/main.d351a5b3.chunk.css.map",
+    "static/media/logo.svg": "/DragDropFruit/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f782781a.js",
+    "static/js/2.3342b93d.chunk.js",
+    "static/css/main.d351a5b3.chunk.css",
+    "static/js/main.fb2e000e.chunk.js"
+  ]
+}
